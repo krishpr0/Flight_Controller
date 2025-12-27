@@ -25088,8 +25088,8 @@
 		)
 	)
 	(gr_circle
-		(center 163.46 109.798401)
-		(end 165.46 109.878401)
+		(center 163.467171 109.76)
+		(end 165.7 109.89)
 		(stroke
 			(width 0.2)
 			(type default)
@@ -25129,6 +25129,18 @@
 					(xy 174.045411 118.848171) (xy 174.574563 118.848171) (xy 174.574563 118.31621) (xy 174.874249 118.31621)
 				)
 			)
+		)
+	)
+	(gr_text "KRISH FC\n"
+		(at 143.9 133.39 0)
+		(layer "F.SilkS")
+		(uuid "4c3cf3d2-d556-4e7c-a14c-ced66815f239")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "-"
