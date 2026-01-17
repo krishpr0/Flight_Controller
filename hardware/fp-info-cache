@@ -1,4 +1,4 @@
-26818628585948673
+26829240030671551
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106428,6 +106428,27 @@ LGA-14_L3.0-W2.5-P0.50-TL
 14
 14
 lcsc
+LGA-16_L3.0-W3.0-P0.50-BL
+
+
+0
+16
+16
+lcsc
+LGA-16_L3.0-W3.0-P0.50-BL_SQ
+
+
+0
+16
+16
+lcsc
+LQFP-100_L14.0-W14.0-P0.50-LS16.0-BL
+
+
+0
+100
+100
+lcsc
 PQFN-8_L5.8-W4.9-P1.27-LS6.0-BL
 
 
@@ -106435,12 +106456,26 @@ PQFN-8_L5.8-W4.9-P1.27-LS6.0-BL
 9
 9
 lcsc
+RF-SMD_U.FL-R-SMT-1-80
+
+
+0
+3
+3
+lcsc
 SMA-TH_SMA-KWE902
 
 
 0
 5
 5
+lcsc
+SMD-18_L10.1-W9.7-P1.10-TL_SKG09F
+
+
+0
+18
+18
 lcsc
 SOT-323-3_L2.0-W1.3-P1.30-LS2.1-BR
 
@@ -106483,3 +106518,10 @@ VQFN-HR-15_L3.0-W2.5-P0.50-BL_TPS63070RNMR
 0
 15
 15
+lcsc
+VSSOP-10_L3.0-W3.0-P0.50-LS4.9-BL
+
+
+0
+10
+10
