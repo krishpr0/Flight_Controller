@@ -39,4 +39,4 @@
 - This is one of my finest creation. All of the Pervious versions were either in a Matrix board, or breadboard.
 
 #### Reasons for making it,
-- **
+- **Reason**, Firstly the reasons I started into Flight Controllers were because of Drones, I always wanted to know how it worked, how it operated, how it functions, and after looking at articles after articles, I got to know Flight Controller was the most important part for a drone to function. So i started looking at Flight Controllers, Many ppl bought pre-made Flight Controllers such as SpeedyBee, Pixhawk, etc. But those lacked features, altho the features they have are the best of the best, their circuits, But i wanted to have as much features as possible, and as well as work my way up the Flight Controllers, This Flight Controllers will be my first ever PCB made with this much functionality.
